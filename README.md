@@ -137,7 +137,7 @@ $ cat contact.txt
 
 **Email:** ayaanqazi.04.04@gmail.com  
 **LinkedIn:** [linkedin.com/in/ayaan-qazi](https://linkedin.com/in/ayaan-qazi)  
-**Portfolio:** [tobiiiee.github.io/Portfolio](https://tobiiiee.github.io/Portfolio/)
+**Portfolio:** [ayaan-qazi.github.io/Portfolio](https://tobiiiee.github.io/Portfolio/)
 
 > Currently open to opportunities in **AI/ML**, **Full Stack Development**, and **Mobile Development**
 
